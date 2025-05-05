@@ -1,0 +1,9 @@
+@import url('./common.css');
+@import url('./header/header.css');
+@import url('./footer/footer.css');
+@import url('./news/news.css');
+@import url('./get-started/get-started.css');
+@import url('./new-items/new-items.css');
+@import url('./author/author.css');
+@import url('./subscriptrion/subscription.css');
+@import url("./reviews/reviews.css");
